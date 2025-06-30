@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfi12&label=Profile%20views&color=0e75b6&style=flat" alt="irfi12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfi12" alt="irfi12" /></a> </p>
-
 - 🌱 I’m currently learning **DSA , Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/irfi12](https://github.com/irfi12)
