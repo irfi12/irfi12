@@ -28,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfi12&show_icons=true&locale=en" alt="irfi12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfi12&" alt="irfi12" /></p>
-
-s
